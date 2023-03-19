@@ -1,3 +1,44 @@
 body {
      font-family: sans-serif;
+     text-align: center;
+     background-color: rgb(255, 239, 225);
+}
+
+h1 {
+     color: rgb(86, 34, 0);
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+     color: rgb(77, 77, 77);
+}
+
+ul {
+     display: flex;
+     list-style: none;
+     padding: 0%;
+
+}
+
+nav {
+     background-color: rgb(86, 34, 0);
+}
+
+li {
+     padding: 1em;
+     text-decoration: none;
+     color:  rgb(255, 239, 225);
+}
+
+a:link, a:visited {
+     text-decoration: none;
+     color:  rgb(255, 239, 225);
+}
+
+a:hover {
+     color: rgb(77, 77, 77);
+}
+
+.home_bat {
+     width: 1000px;
 }
