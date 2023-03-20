@@ -39,6 +39,6 @@ a:hover {
      color: rgb(77, 77, 77);
 }
 
-.home_bat {
+.home_bat, .micro_img, .fox_img {
      width: 1000px;
 }
